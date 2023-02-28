@@ -62,7 +62,7 @@ const Skills = () => {
                         <Service
                             num="1"
                             title="CMS-app-in-express-mongodb"
-                            desc="Projekt miał na celu pokazać, przekazywanie danych pomiedzy użytkownikiem i bazą danych."
+                            desc="The project was to show data transfer between the user and the database."
                             data={[
                                 "Javascript",
                                 "Express.js",
@@ -73,7 +73,7 @@ const Skills = () => {
                         <Service
                             num="2"
                             title="React-app-ToDoList and TypeScript-app-ToDoList"
-                            desc="Projekt miał na celu pokazanie swoich umiejętności w React i TypeScript"
+                            desc="The project was to show my skills in React and TypeScript"
                             data={[
                                 "Javascript",
                                 "React",
@@ -84,9 +84,9 @@ const Skills = () => {
                         <Service
                             num="3"
                             title="Diamonds-game"
-                            desc="Projekt (gra) polegająca na przesuwaniu rzędów i kolumn z różnymi klejnotami 
-                            lub diamentami tak, aby ułożyć linię składającą się z identycznych klejnotów. 
-                            Wtedy linia znika, a gracz otrzymuje punkty, w zależności od rodzaju uzyskanego układu."
+                            desc="A project (game) of moving rows and columns with different jewels
+                            or diamonds to make a line of identical gems.
+                            Then the line disappears and the player receives points depending on the type of hand obtained."
                             data={[
                                 "Javascript",
                                 
