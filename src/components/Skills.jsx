@@ -104,7 +104,7 @@ const Skills = () => {
                         <span>My Skills</span>
                         <span>and</span>
                         <span className="flex items-center gap-2">
-                            Project
+                            Projects
                          
                         </span>
                 
