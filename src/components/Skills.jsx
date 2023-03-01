@@ -84,7 +84,7 @@ const Skills = () => {
                         <Service
                             num="3"
                             title="Diamonds-game"
-                            desc="A project (game) of moving rows and columns with different jewels
+                            desc="The project (game) of moving rows and columns with different jewels
                             or diamonds to make a line of identical gems.
                             Then the line disappears and the player receives points depending on the type of hand obtained."
                             data={[
@@ -108,8 +108,7 @@ const Skills = () => {
                          
                         </span>
                 
-                        <span>In</span>
-                        <span>Javascript</span>
+                       
                     </div>
                     {/* SECTION HEADING END */}
                 </div>

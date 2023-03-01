@@ -120,7 +120,7 @@ const Form = () => {
                         htmlFor="message"
                         className="text-[16px] text-black uppercase"
                     >
-                        Please tell a bit about yourself & your project
+                        Ask a question
                         <sup>*</sup>
                     </label>
                     <textarea

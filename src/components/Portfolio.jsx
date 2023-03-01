@@ -7,16 +7,7 @@ const Portfolio = () => {
 
     const [projectData, setProjectData] = useState(projects);
 
-    const filterHandler = (tag) => {
-        setSelectedTag(tag);
-        let filteredProjects = [];
-        if (tag === "all") {
-            filteredProjects = projects;
-        } else {
-            filteredProjects = projects.filter((p) => p.tags.includes(tag));
-        }
-        setProjectData(filteredProjects);
-    };
+   
 
     return (
         <div id="work" className="mt-10 relative">
@@ -29,7 +20,7 @@ const Portfolio = () => {
                 The projects I create are based on knowledge from courses and exercises that 
                 I had to do on them. Below are just some of my projects, 
                 </div>
-                <div className="flex text-center justify-center gap-2 md:gap-0 md:flex-col text-[40px] md:text-[90px] 2xl:text-[20px] leading-[40px] md:leading-[95px] 2xl:leading-[20px] font-oswald uppercase text-gradient mb-2">
+                <div className="color: first-letter:marker:bg-red-600 text-center">
                 for more please visit my GitHub.    
                 </div>
             </Div>

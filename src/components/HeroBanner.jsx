@@ -14,7 +14,7 @@ const HeroBanner = () => {
     return (
         <div
             id="hero"
-            className="w-full h-[110vh] relative bg-[] overflow-hidden"
+            className="w-full h-[104vh] relative bg-[] overflow-hidden"
         >
             {/* BACKGROUND ELEMENTS FOR DESKTOP START */}
             <motion.span
@@ -90,7 +90,7 @@ const HeroBanner = () => {
                 {/* INTRO START */}
                 <motion.div
                     className="flex flex-col mb-10 text-center md:text-left text-[16px] md:text-[18px] leading-[24px] md:leading-[28px] relative"
-                    initial={{ y: 300, opacity: 0 }}
+                    initial={{ y: 200, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ duration: 0.7, delay: 0.25 }}
                 >
@@ -99,8 +99,7 @@ const HeroBanner = () => {
                         <span className="font-semibold">Kacper Lewicki</span>
                     </div>
                     <div className="max-w-[610px]">
-                   I have been programming in javascript for a long time and not only, I enrich my knowledge thanks to the courses 
-                   but also by creating my own applications and websites.
+                     I've been programming in JavaScript for a long time. I am constantly enriching my knowledge not only through courses, but also by creating my own applications and websites.
                     </div>
                 </motion.div>
                 {/* INTRO END */}
@@ -118,7 +117,7 @@ const HeroBanner = () => {
 
                 {/* PERSON BLOCK START */}
                 <motion.div
-                    className="w-[300px] md:w-[360px] 2xl:w-[400px] absolute bottom-0 left-[82%] -translate-x-1/2"
+                    className="w-[300px] md:w-[460px] 2xl:w-[360px] absolute bottom-0 left-[85%] -translate-x-1/2"
                     initial={{ y: 200, x: "-50%" }}
                     animate={{ y: 0 }}
                     transition={{ duration: 0.5 }}

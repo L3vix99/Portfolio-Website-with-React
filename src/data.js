@@ -31,7 +31,7 @@ export const achievements = [
     {
         id: 2,
         year: 1,
-        description: "YEAR<br />COMPLETED<br />Learn",
+        description: "YEARS<br />SINCE<br />STARTED",
     },
    
     {

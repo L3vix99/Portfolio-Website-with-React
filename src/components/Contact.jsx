@@ -17,7 +17,7 @@ const Contact = () => {
                         Let’s Talk
                     </div>
                     <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-black text-center max-w-[1000px] mx-auto">
-                    If you have any questions, write me and I'll get back to you as soon as possible.  
+                    If you have any questions, don't hesitate asking.  
                     </div>
                 </Div>
                 {/* SECTION HEADING END */}
