@@ -28,44 +28,44 @@
 .sec-1-bg-gradient-1-desktop {
     background: linear-gradient(
         236.22deg,
-        #ff3c47 -3.32%,
-        #eec850 12.21%,
+        blue -3.32%,
+        blue 12.21%,
         #3257ed 73.4%
     );
-    border: 122px solid #d21655;
+    border: 122px solid #3257ed 73.4%;
     filter: blur(187px);
 }
 
 .sec-1-bg-gradient-2-desktop {
     background: linear-gradient(
         90deg,
-        #e65300 7.99%,
-        #e7af00 47.79%,
-        #006be9 86.72%
+        blue -3.32%,
+        blue 12.21%,
+        #3257ed 73.4%
     );
-    border: 122px solid #d21655;
+    border: 122px solid #3257ed 73.4%;
     filter: blur(187px);
 }
 
 .sec-1-bg-gradient-1-mobile {
     background: linear-gradient(
         236.22deg,
-        #ff3c47 -3.32%,
-        #eec850 12.21%,
+        blue -3.32%,
+        blue 12.21%,
         #3257ed 73.4%
     );
-    border: 122px solid #d21655;
+    border: 122px solid#3257ed 73.4%;
     filter: blur(187px);
 }
 
 .sec-1-bg-gradient-2-mobile {
     background: linear-gradient(
         90deg,
-        #e65300 7.99%,
-        #e7af00 47.79%,
-        #006be9 86.72%
+        blue -3.32%,
+        blue 12.21%,
+        #3257ed 73.4%
     );
-    border: 122px solid #d21655;
+    border: 122px solid #3257ed 73.4%;
     filter: blur(187px);
 }
 
@@ -77,9 +77,9 @@
     top: 457px;
     background: linear-gradient(
         236.22deg,
-        #ff3c47 -3.32%,
-        #bcee50 15.86%,
-        #32e2ed 73.4%
+        blue -3.32%,
+        blue 12.21%,
+        #3257ed 73.4%
     );
     filter: blur(212px);
 }
@@ -118,9 +118,9 @@
     top: 2282px;
     background: linear-gradient(
         236.22deg,
-        #6a0006 -3.32%,
-        #2e4300 15.86%,
-        #32e2ed 73.4%
+        blue -3.32%,
+        blue 12.21%,
+        #3257ed 73.4%
     );
     filter: blur(212px);
 }
@@ -134,11 +134,11 @@
 
     background: linear-gradient(
         90deg,
-        #401700 7.99%,
-        #8d6b00 47.79%,
-        #006be9 86.72%
+        blue -3.32%,
+        blue 12.21%,
+       
     );
-    border: 122px solid #6a0024;
+    border: 122px solid blue;
     filter: blur(187px);
 }
 
@@ -185,7 +185,7 @@
     height: 50px;
 }
 .path {
-    stroke: #51b3e8;
+    stroke: blue;
     stroke-linecap: round;
     animation: dash 1.5s ease-in-out infinite;
 }

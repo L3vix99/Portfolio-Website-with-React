@@ -13,7 +13,7 @@ const AboutMe = () => {
     return (
         <div
             id="about"
-            className="w-full py-[50px] md:py-[100px] bg-white text-black relative overflow-hidden"
+            className="w-full py-[50px] md:py-[100px] bg-blue text-white relative overflow-hidden"
         >
             {/* BACKGROUND ELEMENTS START */}
             <span className="sec-2-bg-gradient" />
